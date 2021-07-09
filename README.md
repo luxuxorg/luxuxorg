@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luxuxorg
+- 👋 Hi, I’m Lutz
 - 👀 I’m interested in world domination through love, happiness and joy
 - 🌱 I’m currently learning how to tinker with React
 - 💞️ I’m looking to collaborate on world domination
